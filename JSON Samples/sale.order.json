@@ -1,0 +1,168 @@
+{
+    "access_token": false,
+    "access_url": "/my/orders/116",
+    "access_warning": "",
+    "activity_date_deadline": false,
+    "activity_exception_decoration": false,
+    "activity_exception_icon": false,
+    "activity_ids": [],
+    "activity_state": false,
+    "activity_summary": false,
+    "activity_type_icon": false,
+    "activity_type_id": false,
+    "activity_user_id": false,
+    "amount_invoiced": 0,
+    "amount_paid": 0,
+    "amount_tax": 4.76,
+    "amount_to_invoice": 100,
+    "amount_total": 100,
+    "amount_undiscounted": 95.24,
+    "amount_untaxed": 95.24,
+    "analytic_account_id": false,
+    "authorized_transaction_ids": [],
+    "campaign_id": false,
+    "client_order_ref": false,
+    "commitment_date": false,
+    "company_id": [
+        1,
+        "Beauty Tribe Trading LLC"
+    ],
+    "country_code": "AE",
+    "create_date": "2023-12-27 09:59:26",
+    "create_uid": [
+        2,
+        "Administrator"
+    ],
+    "currency_id": [
+        128,
+        "AED"
+    ],
+    "currency_rate": 1,
+    "date_order": "2023-12-27 09:59:26",
+    "delivery_count": 1,
+    "delivery_status": "pending",
+    "display_name": "S00116",
+    "effective_date": false,
+    "expected_date": "2023-12-27 09:59:26",
+    "fiscal_position_id": [
+        1,
+        "Dubai"
+    ],
+    "has_active_pricelist": true,
+    "has_message": true,
+    "id": 116,
+    "incoterm": false,
+    "incoterm_location": false,
+    "invoice_count": 0,
+    "invoice_ids": [],
+    "invoice_status": "to invoice",
+    "is_expired": false,
+    "journal_id": false,
+    "json_popover": "{\"popoverTemplate\": \"sale_stock.DelayAlertWidget\", \"late_elements\": []}",
+    "locked": false,
+    "medium_id": false,
+    "message_attachment_count": 0,
+    "message_follower_ids": [
+        969,
+        970
+    ],
+    "message_has_error": false,
+    "message_has_error_counter": 0,
+    "message_has_sms_error": false,
+    "message_ids": [
+        1431,
+        1428
+    ],
+    "message_is_follower": true,
+    "message_needaction": false,
+    "message_needaction_counter": 0,
+    "message_partner_ids": [
+        3,
+        97
+    ],
+    "my_activity_date_deadline": false,
+    "name": "S00116",
+    "note": false,
+    "order_line": [
+        154
+    ],
+    "origin": false,
+    "partner_credit_warning": "",
+    "partner_id": [
+        97,
+        "Test Manual Sales Order"
+    ],
+    "partner_invoice_id": [
+        97,
+        "Test Manual Sales Order"
+    ],
+    "partner_shipping_id": [
+        97,
+        "Test Manual Sales Order"
+    ],
+    "payment_term_id": [
+        1,
+        "Immediate Payment"
+    ],
+    "picking_ids": [
+        115
+    ],
+    "picking_policy": "one",
+    "prepayment_percent": 1,
+    "pricelist_id": [
+        1,
+        "Default AED pricelist (AED)"
+    ],
+    "procurement_group_id": [
+        115,
+        "S00116"
+    ],
+    "purchase_order_count": 0,
+    "reference": false,
+    "require_payment": false,
+    "require_signature": false,
+    "sale_order_option_ids": [],
+    "sale_order_template_id": false,
+    "show_json_popover": false,
+    "show_update_fpos": false,
+    "show_update_pricelist": false,
+    "signature": false,
+    "signed_by": false,
+    "signed_on": false,
+    "source_id": false,
+    "state": "sale",
+    "tag_ids": [],
+    "tax_calculation_rounding_method": "round_per_line",
+    "tax_country_id": [
+        2,
+        "United Arab Emirates"
+    ],
+    "tax_totals": {
+        "amount_total": 100,
+        "amount_untaxed": 95.24
+    },
+    "team_id": [
+        1,
+        "Sales"
+    ],
+    "terms_type": "plain",
+    "transaction_ids": [],
+    "type_name": "Sales Order",
+    "user_id": [
+        2,
+        "Administrator"
+    ],
+    "validity_date": "2024-01-26",
+    "warehouse_id": [
+        1,
+        "My Company"
+    ],
+    "website_message_ids": [],
+    "write_date": "2023-12-27 09:59:26",
+    "write_uid": [
+        2,
+        "Administrator"
+    ],
+    "x_ecom_order_id": "1000011",
+    "x_ecom_payment_method": "TAP"
+}

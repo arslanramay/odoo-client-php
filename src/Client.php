@@ -124,7 +124,7 @@ class Client
             [$criteria],
             ['offset'=>$offset, 'limit'=>$limit, 'order' => $order]
         );
-print_r($response);
+// print_r($response);
 		return $response;
 	}
 
