@@ -94,12 +94,15 @@ $product_data = array(
 // Sales Order data
 $order_data = array(
     'partner_id' => 55, // Arslan Ramay BT
-    // Add order lines
+    'state'      => 'sale',
     'order_line' => array(
-        // Each tuple contains (0, 0, {values})
-        array(0, 0, array('product_id' => 1, 'product_uom_qty' => 1)), // replace with actual product details
+        array(0, 0, array(
+            'product_id'      => 1,
+            'product_uom_qty' => 1,
+            'discount'        => 20  // 10% discount on this line
+        )),
     ),
-    'x_ecom_order_id'  => 2000002,
+    'x_ecom_order_id'       => 2000006,
     'x_ecom_payment_method' => 'TAP',
 );
 
